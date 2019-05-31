@@ -1,0 +1,8 @@
+MOZILLA PUBLIC LICENSE.Version 1.1---------------1. Definitions.
+1.0.1. "Commercial Use" means distribution or otherwise making the Covered Code available to a third party.Otherwise making thecovered Code available to a third party.
+1.1. "Contributor" means each entity that creates or contributes tothe creation of Modifications.
+1.2. "Contributor Version" means the combination of the OriginalCode, prior Modifications used by a Contributor, and the Modificationsmade by that particular Contributor.
+1.3. "Covered Code" means the Original Code or Modifications or thecombination of the Original Code and Modifications, in each caseincluding portions thereof.
+1.4. "Electronic Distribution Mechanism" means a mechanism generallyaccepted in the software development community for the electronictransfer of data.
+1.5. "Executable" means Covered Code in any form other than Source Code.
+1.6. "Initial Developer" means the individual or entity identified as the Initial Developer in the Source Code notice required by ExhibitA.
